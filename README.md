@@ -1,0 +1,1 @@
+naruto-alert-assets
